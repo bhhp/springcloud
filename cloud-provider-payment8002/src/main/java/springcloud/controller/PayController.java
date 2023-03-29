@@ -10,7 +10,7 @@ import springcloud.service.PayService;
 import javax.annotation.Resource;
 
 @RestController
-@RequestMapping("/payment")
+@RequestMapping("/payment1")
 public class PayController {
 
     @Resource
